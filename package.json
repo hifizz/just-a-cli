@@ -1,0 +1,21 @@
+{
+  "name": "just-a-cli",
+  "version": "0.0.1",
+  "description": "just a cli tool for front end developers",
+  "main": "index.js",
+  "repository": "https://github.com/hifizz/just-a-cli",
+  "author": "(Stack fizz <fizzstack@gmail.com>)",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "just": "./bin/just.js"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "inquirer": "^5.2.0",
+    "ora": "^2.0.0",
+    "shelljs": "^0.8.1",
+    "vue": "^2.5.16"
+  }
+}

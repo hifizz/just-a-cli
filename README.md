@@ -19,3 +19,6 @@ A cli tool for front end.
 - ts-react
 - ts-react-component
 - gulp-browserify
+
+https://juejin.im/post/5a88df696fb9a06350151cd1
+https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/
